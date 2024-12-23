@@ -3861,3 +3861,74 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [23Dec2024 21:39:47.210] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
 [23Dec2024 21:39:52.243] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
 [23Dec2024 21:39:57.243] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:02.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:07.277] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:12.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:14.247] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2321, l='ServerLevel[Mundo nuevo]', x=-194.50, y=9.00, z=-42.50, removed=DISCARDED].
+[23Dec2024 21:40:17.312] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:20.740] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2362, l='ServerLevel[Mundo nuevo]', x=-194.50, y=9.00, z=-42.50, removed=DISCARDED].
+[23Dec2024 21:40:22.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:27.250] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2410, l='ServerLevel[Mundo nuevo]', x=-194.50, y=9.00, z=-42.50, removed=DISCARDED].
+[23Dec2024 21:40:27.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:32.380] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:37.404] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:38.446] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2476, l='ServerLevel[Mundo nuevo]', x=-29.50, y=-12.00, z=-110.50, removed=DISCARDED].
+[23Dec2024 21:40:41.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[23Dec2024 21:40:42.405] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:42.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KEVING50032: Set own game mode to Spectator Mode]
+[23Dec2024 21:40:47.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:50.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[23Dec2024 21:40:51.541] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2542, l='ServerLevel[Mundo nuevo]', x=-22.50, y=-9.00, z=-123.50, removed=DISCARDED].
+[23Dec2024 21:40:52.476] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:52.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 was pummeled by ELDEMONIO223
+[23Dec2024 21:40:53.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[23Dec2024 21:40:56.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KEVING50032: Set own game mode to Creative Mode]
+[23Dec2024 21:40:57.477] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:40:58.042] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2577, l='ServerLevel[Mundo nuevo]', x=-22.50, y=-9.00, z=-123.50, removed=DISCARDED].
+[23Dec2024 21:41:00.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[23Dec2024 21:41:02.505] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:04.540] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2584, l='ServerLevel[Mundo nuevo]', x=-22.50, y=-9.00, z=-123.50, removed=DISCARDED].
+[23Dec2024 21:41:07.538] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:11.044] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2598, l='ServerLevel[Mundo nuevo]', x=-22.50, y=-9.00, z=-123.50, removed=DISCARDED].
+[23Dec2024 21:41:12.536] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:17.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[23Dec2024 21:41:17.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[23Dec2024 21:41:17.541] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed FlyingSummonEntity['Phantom'/2647, l='ServerLevel[Mundo nuevo]', x=-22.50, y=-9.00, z=-123.50, removed=DISCARDED].
+[23Dec2024 21:41:17.576] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:17.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[23Dec2024 21:41:22.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:27.572] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:32.605] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:37.614] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:42.644] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:45.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Disconnected
+[23Dec2024 21:41:45.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[23Dec2024 21:41:45.449] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ELDEMONIO223
+[23Dec2024 21:41:45.450] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[23Dec2024 21:41:47.682] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:52.673] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:41:57.682] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:37359
+[23Dec2024 21:42:01.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23Dec2024 21:42:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 21:42:01.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 21:42:01.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Server closed
+[23Dec2024 21:42:01.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[23Dec2024 21:42:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 21:42:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[23Dec2024 21:42:02.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[23Dec2024 21:42:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[23Dec2024 21:42:02.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/lostcities:lostcity
+[23Dec2024 21:42:02.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[23Dec2024 21:42:02.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[23Dec2024 21:42:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2024 21:42:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2024 21:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2024 21:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[23Dec2024 21:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Dec2024 21:42:02.596] [Server thread/INFO] [configured/]: Unloading server configs...
+[23Dec2024 21:42:02.597] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[23Dec2024 21:42:02.597] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[23Dec2024 21:42:02.597] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[23Dec2024 21:42:02.597] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[23Dec2024 21:42:02.598] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[23Dec2024 21:42:02.598] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies

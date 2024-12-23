@@ -1419,3 +1419,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [23Dec2024 21:39:33.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
 [23Dec2024 21:39:37.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
 [23Dec2024 21:39:41.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[23Dec2024 21:40:41.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[23Dec2024 21:40:42.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KEVING50032: Set own game mode to Spectator Mode]
+[23Dec2024 21:40:50.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[23Dec2024 21:40:52.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 was pummeled by ELDEMONIO223
+[23Dec2024 21:40:53.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[23Dec2024 21:40:56.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KEVING50032: Set own game mode to Creative Mode]
+[23Dec2024 21:41:00.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[23Dec2024 21:41:17.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[23Dec2024 21:41:45.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Disconnected
+[23Dec2024 21:41:45.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[23Dec2024 21:41:45.450] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[23Dec2024 21:42:01.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23Dec2024 21:42:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 21:42:01.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 21:42:01.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Server closed
+[23Dec2024 21:42:01.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[23Dec2024 21:42:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 21:42:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[23Dec2024 21:42:02.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[23Dec2024 21:42:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[23Dec2024 21:42:02.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/lostcities:lostcity
+[23Dec2024 21:42:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2024 21:42:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2024 21:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2024 21:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[23Dec2024 21:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Dec2024 21:42:02.596] [Server thread/INFO] [configured/]: Unloading server configs...
+[23Dec2024 21:42:02.597] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
