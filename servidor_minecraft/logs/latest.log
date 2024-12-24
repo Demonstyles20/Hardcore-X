@@ -1833,3 +1833,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [24Dec2024 01:13:36.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> si
 [24Dec2024 01:13:38.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> ahora si
 [24Dec2024 01:14:13.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[24Dec2024 01:14:57.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> bro
+[24Dec2024 01:15:03.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> mala ahi pero me tengo que ir
+[24Dec2024 01:15:10.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> ya que hoy se casa una prima mia
+[24Dec2024 01:15:17.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> cuando vuelva me conecto
+[24Dec2024 01:15:21.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> bueno igual era para probar
+[24Dec2024 01:15:24.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> para
+[24Dec2024 01:15:31.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> chau bro
+[24Dec2024 01:15:33.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> mañana seguimos probando
+[24Dec2024 01:15:36.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar lost connection: Disconnected
+[24Dec2024 01:15:36.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NullSugar left the game
+[24Dec2024 01:15:36.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NullSugar
+[24Dec2024 01:16:17.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[24Dec2024 01:16:20.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[24Dec2024 01:16:23.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[24Dec2024 01:16:59.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Killed ELDEMONIO223]
+[24Dec2024 01:17:07.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Killed ELDEMONIO223]
+[24Dec2024 01:18:07.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 died
+[24Dec2024 01:18:38.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Timed out
+[24Dec2024 01:18:38.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[24Dec2024 01:18:38.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[24Dec2024 01:18:59.219] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24a1f55d
+[24Dec2024 01:18:59.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELDEMONIO223[/127.216.159.202:47713] logged in with entity id 17533 at (9.5, 75.0, 4.5)
+[24Dec2024 01:18:59.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 joined the game
+[24Dec2024 01:19:00.428] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ELDEMONIO223 (18)
+[24Dec2024 01:19:00.428] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ELDEMONIO223
+[24Dec2024 01:19:16.474] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21958eaa
+[24Dec2024 01:19:16.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KEVING50032[/127.216.159.202:48803] logged in with entity id 17598 at (19.330560740246273, 68.01949179001865, 5.62085474643682)
+[24Dec2024 01:19:16.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 joined the game
+[24Dec2024 01:19:22.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KEVING50032 (18)
+[24Dec2024 01:19:22.053] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KEVING50032
+[24Dec2024 01:19:29.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Timed out
+[24Dec2024 01:19:29.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[24Dec2024 01:19:29.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[24Dec2024 01:19:46.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Timed out
+[24Dec2024 01:19:46.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[24Dec2024 01:19:46.572] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KEVING50032
+[24Dec2024 01:21:07.318] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@346c7224
+[24Dec2024 01:21:07.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KEVING50032[/127.216.159.202:35055] logged in with entity id 17734 at (19.330560740246273, 68.01949179001865, 5.62085474643682)
+[24Dec2024 01:21:07.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 joined the game
+[24Dec2024 01:21:08.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KEVING50032 (18)
+[24Dec2024 01:21:08.003] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KEVING50032
+[24Dec2024 01:21:37.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Timed out
+[24Dec2024 01:21:37.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[24Dec2024 01:21:37.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KEVING50032
+[24Dec2024 01:21:42.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[24Dec2024 01:21:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 01:21:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 01:21:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 01:21:43.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[24Dec2024 01:21:43.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/lostcities:lostcity
+[24Dec2024 01:21:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[24Dec2024 01:21:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[24Dec2024 01:21:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 01:21:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[24Dec2024 01:21:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 01:21:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 01:21:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 01:21:43.876] [Server thread/INFO] [configured/]: Unloading server configs...
+[24Dec2024 01:21:43.876] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
