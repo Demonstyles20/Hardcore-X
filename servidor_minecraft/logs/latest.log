@@ -1733,3 +1733,103 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [24Dec2024 01:01:23.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NullSugar has made the advancement [Monster Hunter]
 [24Dec2024 01:04:12.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 7.329888412952712,0.0,7.196298631783151
 [24Dec2024 01:04:16.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[24Dec2024 01:04:35.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> oigan
+[24Dec2024 01:04:38.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 7.254079928688952,-5.301217438527814,4.446172960405676
+[24Dec2024 01:04:44.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> quienes?
+[24Dec2024 01:04:55.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> ya probaste los carros?
+[24Dec2024 01:05:20.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> estan bacanos
+[24Dec2024 01:05:28.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> ok
+[24Dec2024 01:05:34.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Teleported ELDEMONIO223 to NullSugar]
+[24Dec2024 01:05:43.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.37301394263063514
+[24Dec2024 01:05:43.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 1.1716294782211492
+[24Dec2024 01:05:43.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 2.0031714596944425
+[24Dec2024 01:05:49.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.2739636947397841
+[24Dec2024 01:05:49.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.7379805586442814
+[24Dec2024 01:05:49.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 1.0
+[24Dec2024 01:05:49.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.26816407919930896
+[24Dec2024 01:05:49.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.2575142204556826
+[24Dec2024 01:05:49.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.44074342635999386
+[24Dec2024 01:05:49.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 1.0
+[24Dec2024 01:05:49.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.2575142204556826
+[24Dec2024 01:05:49.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.26048347511082426
+[24Dec2024 01:05:49.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.43668259364740436
+[24Dec2024 01:05:49.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.9897720930309362
+[24Dec2024 01:05:49.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.6381384063570152
+[24Dec2024 01:05:49.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 1.0
+[24Dec2024 01:05:58.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved too quickly! -7.340603298805846,0.0,-7.0625
+[24Dec2024 01:05:58.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved too quickly! -7.629761583025314,0.0,-7.0625
+[24Dec2024 01:05:58.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved too quickly! -7.850150692346119,0.0,-7.0625
+[24Dec2024 01:05:58.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved too quickly! -7.998956890948676,0.0,-7.0625
+[24Dec2024 01:05:58.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved too quickly! -8.074248838642248,0.0,-7.0625
+[24Dec2024 01:05:58.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved too quickly! -8.074877182909603,0.0,-7.0625
+[24Dec2024 01:05:58.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[24Dec2024 01:06:06.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.27984306283852334
+[24Dec2024 01:06:06.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.7538104797302481
+[24Dec2024 01:06:06.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 1.3599486564587835
+[24Dec2024 01:06:06.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.7023739962559148
+[24Dec2024 01:06:06.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.26119465745810544
+[24Dec2024 01:06:06.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.4571972374418749
+[24Dec2024 01:06:07.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 1.0459555330517105
+[24Dec2024 01:06:07.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of NullSugar) moved wrongly! 0.6639677562774011
+[24Dec2024 01:06:41.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> se me escucha el voice?
+[24Dec2024 01:06:48.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> habla
+[24Dec2024 01:06:55.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> no?
+[24Dec2024 01:07:00.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> no
+[24Dec2024 01:07:06.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> entro y salgo
+[24Dec2024 01:07:09.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Disconnected
+[24Dec2024 01:07:09.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[24Dec2024 01:07:09.072] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[24Dec2024 01:07:45.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 9.464831718366739,0.0,4.129891947301729
+[24Dec2024 01:07:47.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 8.102234287006524,2.6194900875214557,5.833636096927364
+[24Dec2024 01:07:47.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[24Dec2024 01:07:53.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 9.962085059616982,0.0,-2.2660376596971616
+[24Dec2024 01:08:02.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 9.233636724557272,3.1909013491950162,-3.060540103799383
+[24Dec2024 01:08:05.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 9.072666420077127,4.49984183680337,-2.4873972634388792
+[24Dec2024 01:08:06.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 7.01047104561502,0.0,-7.556712063366319
+[24Dec2024 01:08:06.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[24Dec2024 01:08:10.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> me va lag
+[24Dec2024 01:08:14.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 10.777597071797231,0.021313978733516592,1.6183124894052696
+[24Dec2024 01:08:17.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 0.6614090387918168,-10.55660261462009,-0.31144765110857975
+[24Dec2024 01:08:17.810] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f9b841e
+[24Dec2024 01:08:17.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELDEMONIO223[/127.216.159.202:40727] logged in with entity id 13324 at (69.58926883444957, 75.67845921149413, 169.8809590019136)
+[24Dec2024 01:08:17.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 joined the game
+[24Dec2024 01:08:25.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ELDEMONIO223 (18)
+[24Dec2024 01:08:25.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ELDEMONIO223
+[24Dec2024 01:08:26.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> bro
+[24Dec2024 01:08:29.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> me va lento xd
+[24Dec2024 01:08:31.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 7.4465840594633335,3.586541197329254,-6.664374560639999
+[24Dec2024 01:08:40.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! -3.9686430380952515,0.0,-9.244902177179565
+[24Dec2024 01:08:47.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Timed out
+[24Dec2024 01:08:47.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[24Dec2024 01:08:47.879] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[24Dec2024 01:09:37.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42271e88
+[24Dec2024 01:09:37.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELDEMONIO223[/127.216.159.202:52593] logged in with entity id 14495 at (69.58926883444957, 75.67845921149413, 169.8809590019136)
+[24Dec2024 01:09:37.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 joined the game
+[24Dec2024 01:09:38.283] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ELDEMONIO223 (18)
+[24Dec2024 01:09:38.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ELDEMONIO223
+[24Dec2024 01:10:02.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 8.761514522216771,0.0,5.1206260154226335
+[24Dec2024 01:10:02.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[24Dec2024 01:10:04.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NullSugar moved too quickly! 8.567180836485875,0.0,5.327321250601301
+[24Dec2024 01:10:06.297] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4deb8790-ab9b-3509-9650-f933dcdf68af
+[24Dec2024 01:10:07.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4deb8790-ab9b-3509-9650-f933dcdf68af
+[24Dec2024 01:10:07.297] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ELDEMONIO223 (4deb8790-ab9b-3509-9650-f933dcdf68af) successfully connected to voice chat
+[24Dec2024 01:10:14.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> pero en si el server esta muy muy muy bacano
+[24Dec2024 01:10:21.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> dale
+[24Dec2024 01:10:43.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Teleported ELDEMONIO223 to NullSugar]
+[24Dec2024 01:11:08.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELDEMONIO223 lost connection: Timed out
+[24Dec2024 01:11:08.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 left the game
+[24Dec2024 01:11:08.023] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ELDEMONIO223
+[24Dec2024 01:11:22.322] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b586ca9
+[24Dec2024 01:11:22.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELDEMONIO223[/127.216.159.202:34629] logged in with entity id 15607 at (297.5499160869138, 81.07826119091906, 40.42887162386312)
+[24Dec2024 01:11:22.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELDEMONIO223 joined the game
+[24Dec2024 01:11:22.952] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ELDEMONIO223 (18)
+[24Dec2024 01:11:22.953] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ELDEMONIO223
+[24Dec2024 01:11:36.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Teleported ELDEMONIO223 to NullSugar]
+[24Dec2024 01:12:28.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4deb8790-ab9b-3509-9650-f933dcdf68af
+[24Dec2024 01:12:30.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4deb8790-ab9b-3509-9650-f933dcdf68af
+[24Dec2024 01:12:30.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ELDEMONIO223 (4deb8790-ab9b-3509-9650-f933dcdf68af) successfully connected to voice chat
+[24Dec2024 01:13:17.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NullSugar: Set own game mode to Survival Mode]
+[24Dec2024 01:13:31.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> habla otra vez
+[24Dec2024 01:13:36.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> si
+[24Dec2024 01:13:38.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> ahora si
+[24Dec2024 01:14:13.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
