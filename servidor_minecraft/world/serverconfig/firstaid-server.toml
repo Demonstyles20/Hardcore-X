@@ -92,7 +92,7 @@
 		totalsHeals = 4
 		#The time it takes for a single heal to trigger. Total time this item is active = this * totalHeals
 		#Range: 1 ~ 32767
-		secondsPerHeal = 18
+		secondsPerHeal = 10
 		#The time it takes in the GUI to apply the item in milliseconds
 		#Range: 0 ~ 16000
 		applyTime = 2500
