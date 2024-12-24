@@ -23,21 +23,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-24 00:34:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-24 00:33:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_lots_of_items": "2024-12-24 00:34:11 +0000"
+      "consumed_item": "2024-12-24 00:34:56 +0000"
     },
     "done": true
   },
@@ -47,9 +41,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_rotten_flesh": "2024-12-24 00:32:00 +0000"
+      "has_lots_of_items": "2024-12-24 00:34:11 +0000"
     },
     "done": true
   },
@@ -89,6 +83,18 @@
       "minecraft:zombie": "2024-12-24 00:31:56 +0000",
       "minecraft:drowned": "2024-12-24 00:31:56 +0000",
       "minecraft:zombie_villager": "2024-12-24 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-24 00:32:00 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/transportation/car": {
+    "criteria": {
+      "has_body": "2024-12-24 00:41:24 +0000"
     },
     "done": true
   },
@@ -152,17 +158,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_sand": "2024-12-24 00:32:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-24 00:29:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-24 00:32:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {

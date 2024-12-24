@@ -1635,3 +1635,60 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [24Dec2024 00:43:25.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of KEVING50032) moved too quickly! -2.6140745983280027,1.0,-16.280485384026328
 [24Dec2024 00:43:25.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of KEVING50032) moved too quickly! -2.864700737318934,1.0,-16.4643938308719
 [24Dec2024 00:43:25.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Motorcycle (vehicle of KEVING50032) moved too quickly! -3.0401390316248893,1.0,-16.59312974147144
+[24Dec2024 00:44:41.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[24Dec2024 00:45:45.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set the time to 1000]
+[24Dec2024 00:45:47.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KEVING50032: Set own game mode to Survival Mode]
+[24Dec2024 00:46:25.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Survival Mode]
+[24Dec2024 00:47:02.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Timed out
+[24Dec2024 00:47:02.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[24Dec2024 00:47:02.981] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KEVING50032
+[24Dec2024 00:47:03.023] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 00:47:23.098] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58c97027
+[24Dec2024 00:47:23.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KEVING50032[/127.216.159.202:41517] logged in with entity id 8111 at (19.330560740246273, 69.1, 5.62085474643682)
+[24Dec2024 00:47:23.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 joined the game
+[24Dec2024 00:47:23.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KEVING50032 (18)
+[24Dec2024 00:47:23.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KEVING50032
+[24Dec2024 00:47:42.576] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29ea299e
+[24Dec2024 00:47:42.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NullSugar[/127.207.82.242:55807] logged in with entity id 8216 at (-9.5, 104.0, 10.5)
+[24Dec2024 00:47:42.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NullSugar joined the game
+[24Dec2024 00:47:45.052] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NullSugar (18)
+[24Dec2024 00:47:45.053] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NullSugar
+[24Dec2024 00:47:49.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Set own game mode to Creative Mode]
+[24Dec2024 00:47:53.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Timed out
+[24Dec2024 00:47:53.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[24Dec2024 00:47:53.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KEVING50032
+[24Dec2024 00:48:14.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd10fff9-dfcb-3ea0-a8f5-7a2ef6b12db0
+[24Dec2024 00:48:15.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd10fff9-dfcb-3ea0-a8f5-7a2ef6b12db0
+[24Dec2024 00:48:15.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NullSugar (dd10fff9-dfcb-3ea0-a8f5-7a2ef6b12db0) successfully connected to voice chat
+[24Dec2024 00:48:19.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> holaa
+[24Dec2024 00:48:25.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> perdon por no entrar antes
+[24Dec2024 00:48:29.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> tuve un problema
+[24Dec2024 00:49:05.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20df864a
+[24Dec2024 00:49:05.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KEVING50032[/127.216.159.202:58319] logged in with entity id 8605 at (19.330560740246273, 69.1, 5.62085474643682)
+[24Dec2024 00:49:05.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 joined the game
+[24Dec2024 00:49:05.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KEVING50032 (18)
+[24Dec2024 00:49:05.348] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KEVING50032
+[24Dec2024 00:49:35.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Timed out
+[24Dec2024 00:49:35.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[24Dec2024 00:49:35.172] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KEVING50032
+[24Dec2024 00:49:46.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NullSugar: Set own game mode to Creative Mode]
+[24Dec2024 00:49:53.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELDEMONIO223: Teleported NullSugar to ELDEMONIO223]
+[24Dec2024 00:50:36.127] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39d976ed
+[24Dec2024 00:50:36.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KEVING50032[/127.216.159.202:47053] logged in with entity id 8824 at (19.330560740246273, 68.33152379758701, 5.62085474643682)
+[24Dec2024 00:50:36.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 joined the game
+[24Dec2024 00:50:36.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KEVING50032 (18)
+[24Dec2024 00:50:36.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KEVING50032
+[24Dec2024 00:50:52.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KEVING50032> tp
+[24Dec2024 00:50:54.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KEVING50032> o
+[24Dec2024 00:51:01.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KEVING50032> yud<
+[24Dec2024 00:51:05.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KEVING50032> ayudaaaaaa
+[24Dec2024 00:51:06.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KEVING50032 lost connection: Timed out
+[24Dec2024 00:51:06.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KEVING50032 left the game
+[24Dec2024 00:51:06.272] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KEVING50032
+[24Dec2024 00:51:08.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> me rompi los pies
+[24Dec2024 00:52:17.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> gracias bro
+[24Dec2024 00:52:33.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> pero sigo sin poder correr
+[24Dec2024 00:53:19.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELDEMONIO223> ya?
+[24Dec2024 00:53:21.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> si
+[24Dec2024 00:53:22.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> garcias
+[24Dec2024 00:53:26.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NullSugar> gracias*
